@@ -13,7 +13,7 @@ Para maiores informações veja o post - http://www.sencha.com/forum/showthread.
 - ExtJS é de propriedade da Sencha Inc.duplamente licenciado por uma licença GPL3 e Comercial
 http://www.sencha.com
 
-Sob a licença MIT.
+Este plugin está sob a licença MIT.
 
 Copyright (c) 2011
 
