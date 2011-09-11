@@ -3,12 +3,12 @@
 
 Baseado no trabalho de J. Bruni para o ExtDirect.
 
-- Créditos para o J. Bruni, por uma classe extremamente simples e funcional.
-Para maiores informações veja o post - http://www.sencha.com/forum/showthread.php?102357-Extremely-Easy-Ext.Direct-integration-with-PHP&p=480214&viewfull=1#post480214
-- ExtJS é de propriedade da Sencha Inc.duplamente licenciado por uma licença GPL3 e Comercial
+- CrÃ©ditos para o J. Bruni, por uma classe extremamente simples e funcional.
+Para maiores informaÃ§Ãµes veja o post - http://www.sencha.com/forum/showthread.php?102357-Extremely-Easy-Ext.Direct-integration-with-PHP&p=480214&viewfull=1#post480214
+- ExtJS Ã© de propriedade da Sencha Inc.duplamente licenciado por uma licenÃ§a GPL3 e Comercial
 http://www.sencha.com
 
-Sob a licença MIT.
+Sob a licenÃ§a MIT.
 
 Copyright (c) 2011
 
