@@ -1,9 +1,14 @@
 * Plugin para Cakephp 1.3 rodar o ExtDirect do ExtJS 4
+- Clone este repositório na pasta plugins do cakephp e renomeie para direct.
+- No seu layout inclua o Javascript.
 
+<?php
+	echo $this->Html->scripts('/direct?javascript');
+?>
 
-Baseado no trabalho de J. Bruni para o ExtDirect.
+Baseado no trabalho de João Bruni para o ExtDirect.
 
-- Créditos para o J. Bruni, por uma classe extremamente simples e funcional.
+- Créditos para o João Bruni, por uma classe extremamente simples e funcional.
 Para maiores informações veja o post - http://www.sencha.com/forum/showthread.php?102357-Extremely-Easy-Ext.Direct-integration-with-PHP&p=480214&viewfull=1#post480214
 - ExtJS é de propriedade da Sencha Inc.duplamente licenciado por uma licença GPL3 e Comercial
 http://www.sencha.com
