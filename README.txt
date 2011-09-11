@@ -3,7 +3,7 @@
 - No seu layout inclua o Javascript.
 
 <?php
-	echo $this->Html->scripts('/direct?javascript');
+	echo $this->Html->script('/direct?javascript');
 ?>
 
 Baseado no trabalho de João Bruni para o ExtDirect.
