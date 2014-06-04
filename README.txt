@@ -1,3 +1,5 @@
+* Este projeto não é mais continuado
+
 * Plugin para Cakephp 1.3 rodar o ExtDirect do ExtJS 4
 - Clone este repositório na pasta plugins do cakephp e renomeie para direct.
 - No seu layout inclua o Javascript.
